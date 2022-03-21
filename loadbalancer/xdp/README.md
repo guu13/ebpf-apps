@@ -35,3 +35,9 @@ sudo apt-get install -y  make clang llvm libelf-dev libbpf-dev bpfcc-tools libbp
 
 # For RHEL8.2+
 sudo yum install libbpf-devel make clang llvm elfutils-libelf-devel bpftool bcc-tools bcc-devel
+
+
+git config --global user.email "barry.wang0520@gmail.com"
+git config --global user.name "guu13"
+
+test
